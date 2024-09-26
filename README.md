@@ -3,11 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </h1>
 
-- jay
+- Jay
 
 - 21
 
-- united kingdom
+- Yorkshire, England
 
 <br>
 <br>
