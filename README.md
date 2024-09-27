@@ -26,8 +26,6 @@
 <p align="left">
   <img width="40" src="https://github.com/FragStudios/FragStudios/assets/116266395/81a0a08b-b459-4009-a26a-ae19ea9c9140" alt="React"/> <b>React</b>
   <br>
-  <img width="40" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="Next.js"/> <b>Next.js</b>
-  <br>
   <img width="40" src="https://styles.redditmedia.com/t5_2s0xo/styles/communityIcon_btdkmklrsxs81.png" alt="C#"/> <b>C#</b>
   <br>
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++"/> <b>C++</b>
